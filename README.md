@@ -8,7 +8,7 @@ Professional Design Focus: Emphasis on clean layouts, visual appeal, and effecti
 
 Skill Level: Likely aimed at intermediate users who want to elevate their dashboards with interactive, polished features.
 
-Structure & Educational Flow (based on typical tutorials of this type):
+Structure Flow (based on typical tutorials of this type):
 Phase	Description
 Data Preparation	Importing and cleaning datasets—setting up relationships and tables.
 Data Modeling	Creating calculated columns, measures (e.g., Total Sales, Year-over-Year).
